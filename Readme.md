@@ -51,4 +51,7 @@ main.py
 
 - Modify rubrics and prompts in [`prompts.py`] to fit your evaluation needs.
 
-**Note:** This project requires access to the Google Gemini API. Make sure your API key has the necessary
+
+**Note:** This project requires access to the Google Gemini API. Make sure your API key has the necessary permissions.
+
+👨‍💻 Author Muhammad Muaaz
